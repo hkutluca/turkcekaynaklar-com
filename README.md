@@ -617,6 +617,9 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [VueJS ile Server Side Rendering Nasıl Yapılır?](https://oguzcandemircan.com/vue-js-ile-express-kullanarak-server-side-rendering-nasil-yapilir) - [Oğuzcan Demircan](https://twitter.com/oguzcandemircan)
 
 
+### Yazılım Mimarileri
+[Yazılım Mimarileri notları-Hüseyin Kutluca] https://medium.com/yaz%C4%B1l%C4%B1m-mimarileri
+
 ### WordPress
 - :movie_camera: [WordPress Eğitim Seti: WordPress Nedir? WordPress'in Kısa Tarihi #1](https://www.youtube.com/watch?v=B3eXU1jJzH4) - [Baran Somaklı](https://twitter.com/baransomakli)
 
